@@ -19,7 +19,7 @@ const spinner = ora();
 const arg = process.argv[2];
 const optionalArg = process.argv[3];
 const quotePre = `${chalk.bold.cyan('›')} `;
-const authorPre = `${chalk.bold.cyan('\t--')} `;
+const authorPre = `${chalk.bold.cyan('\n\t--')} `;
 
 const showMessage = () => {
 	logUpdate();
