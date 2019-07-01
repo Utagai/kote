@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codedotjs/kote.git"
+    "url": "git+https://github.com/utagai/kote.git"
   },
   "author": "Rishi Giri <rushforlinux@gmail.com> (rishigiri.com)",
   "bin": {
@@ -52,8 +52,8 @@
     "xo": "^0.16.0"
   },
   "bugs": {
-    "url": "https://github.com/codedotjs/kote/issues"
+    "url": "https://github.com/utagai/kote/issues"
   },
-  "homepage": "https://github.com/codedotjs/kote#readme",
+  "homepage": "https://github.com/utagai/kote#readme",
   "main": "cli.js"
 }
